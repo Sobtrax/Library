@@ -3,7 +3,9 @@ SQL data access demo
 
 features
 *add, edit and remove books
+
 *add, edit and remove person info
+
 *add and edit lend records
 
 
