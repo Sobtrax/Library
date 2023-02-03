@@ -1,7 +1,8 @@
 Library app
 SQL data access demo
 
-features
+Features:
+
 *add, edit and remove books
 
 *add, edit and remove person info
