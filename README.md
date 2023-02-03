@@ -14,5 +14,7 @@ Features:
 
 How to run:
 Install the sql backup in MSqlSMS (located in sql folder)
+
 Open project in visual studio
+
 *if the program doesnt connect to the database you may have to edit the connectionstring in app.config
